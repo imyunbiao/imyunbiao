@@ -5,10 +5,7 @@
 - 📫 E-mail: yunbiao.yang@outlook.com
 
 
-SELECT * 
-FROM World
-WHERE "Someone"
-LIKE '%You%'
+SELECT * FROM World WHERE "Someone" LIKE '%You%'
 
 <!---
 imyunbiao/imyunbiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
